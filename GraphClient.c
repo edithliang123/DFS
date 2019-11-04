@@ -1,9 +1,3 @@
-/************************************
- * Yixin Liang, yliang43
- * 2019 Summer CMPS101 PA3
- * GraphTest.c
- * Test Graph ADT
- ***********************************/
 #include<stdio.h>
 #include<stdlib.h>
 #include"Graph.h"
