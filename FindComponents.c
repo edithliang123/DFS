@@ -1,10 +1,4 @@
-/************************************
- * Yixin Liang, yliang43
- * 2019 Summer CMPS101 PA4
- * FindComponents.c
- * Create undirected graph or directed graph based on inputs and find strong
- * components of the graph
- ***********************************/
+//Find the strongly connect components of a graph
 #include<stdio.h>
 #include<stdlib.h>
 #include"Graph.h"
